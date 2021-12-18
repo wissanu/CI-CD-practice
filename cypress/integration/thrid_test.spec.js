@@ -1,7 +1,7 @@
 /// <reference types="Cypress" />
 
 context('thrid test', () => {
-
+    // what the duck
     const withTextCompareOptions = {
 		failureThreshold: 0.05,
 		failureThresholdType: 'percent' // not actually percent - fraction
